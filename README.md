@@ -16,7 +16,7 @@ https://drive.google.com/file/d/16YdY0Ex8Jp2mjmY0BX_mej9wtAMdBk50/view?usp=shari
 
 Github Repository URL: 
 
-https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak.git
+https://github.com/NinadShettyFRT/Bharatiya-Bhasha-Anuvadak.git
 
 Project Documentation URL:
 
