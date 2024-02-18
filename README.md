@@ -8,7 +8,7 @@ Project Details
 
 Project Demo URL: 
 
-http://myttransapp.nslearnings.in
+http://www.nslearnings.in
 
 Demo Video URL: 
 
