@@ -12,7 +12,7 @@ http://myttransapp.nslearnings.in
 
 Demo Video URL: 
 
-https://drive.google.com/file/d/16YdY0Ex8Jp2mjmY0BX_mej9wtAMdBk50/view?usp=sharing
+https://drive.google.com/file/d/1twGMKL6igSNfwTU3qy8wimbBXRuUr7WR/view?usp=sharing
 
 Github Repository URL: 
 
@@ -20,7 +20,7 @@ https://github.com/NinadShettyFRT/Bharatiya-Bhasha-Anuvadak.git
 
 Project Documentation URL:
 
-https://drive.google.com/file/d/1InjC9wmQfyeYZ6TCfcRL1qZxpbT4btL5/view?usp=sharing
+https://drive.google.com/file/d/1uKtakhtMCRYiu5Fjat6vGrC2EVt5XCDJ/view?usp=sharing
 
 Industry Type: Lifestyle
 
