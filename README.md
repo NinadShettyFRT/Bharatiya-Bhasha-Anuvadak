@@ -181,3 +181,4 @@ By deploying the website through an Azure DNS Zone and specifying a custom URL, 
 The project prioritizes cultural sensitivity, acknowledging the importance of accurately conveying linguistic nuances and contextual subtleties. 
 
 In summary, this translation service project stands as a testament to technological innovation and inclusivity. By breaking down language barriers, it promotes equitable access to information and opportunities for individuals across diverse linguistic backgrounds in India. The use of Azure's cloud technologies ensures scalability, security, and efficiency, laying the foundation for a sustainable and impactful solution to linguistic diversity challenges. As the project moves forward, it holds the promise of becoming a cornerstone in fostering cross-cultural communication and understanding in the digital age.
+# Bharatiya-Bhasha-Anuvadak
