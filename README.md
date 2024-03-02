@@ -8,7 +8,7 @@ Project Details
 
 Project Demo URL: 
 
-http://www.nslearnings.in
+https://mytranslatorapp.nslearnings.in/
 
 Demo Video URL: 
 
